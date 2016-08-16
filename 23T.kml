@@ -10,7 +10,7 @@
     <description>Tunis Bus lines</description>
 
    
-    <Style id="blueLine">
+    <Style id="greenLine">
       <LineStyle>
         <color>ff009900</color>
         <width>4</width>
@@ -18,7 +18,7 @@
     </Style>
     <Placemark>
       <name>A-23F</name>
-      <styleUrl>#blueline</styleUrl>
+      <styleUrl>#greenline</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
