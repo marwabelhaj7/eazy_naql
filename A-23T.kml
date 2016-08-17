@@ -12,12 +12,12 @@
    
     <Style id="blueLine">
       <LineStyle>
-        <color>ff009900</color>
+        <color>ff00ccff</color>
         <width>4</width>
       </LineStyle>
     </Style>
     <Placemark>
-      <name>23T</name>
+      <name>A-23T</name>
       <styleUrl>#blueline</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
